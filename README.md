@@ -1,5 +1,9 @@
 # OpenClaw Claude Code 技能
 
+![GitHub](https://img.shields.io/github/license/goulin2k/openclaw-claude-code)
+![GitHub last commit](https://img.shields.io/github/last-commit/goulin2k/openclaw-claude-code)
+![GitHub repo size](https://img.shields.io/github/repo-size/goulin2k/openclaw-claude-code)
+
 一个OpenClaw技能，用于调用Claude Code进行代码开发、调试、重构和自动化任务。
 
 ## 🚀 功能特性
@@ -114,7 +118,10 @@ openclaw-claude-code/
 ├── SKILL.md              # 主技能文件
 ├── examples.md           # 使用示例
 ├── usage-guide.md        # 使用指南
-└── check-installation.sh # 安装检查脚本
+├── check-installation.sh # 安装检查脚本
+├── LICENSE              # MIT许可证
+├── .gitignore           # Git忽略文件
+└── UPLOAD_INSTRUCTIONS.md # 上传说明（可删除）
 ```
 
 ## 🧪 验证安装
